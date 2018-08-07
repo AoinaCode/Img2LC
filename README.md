@@ -1,2 +1,3 @@
-# Img2LC
+# Image to Label Cut
+## Coming soon.......
 Cut the picture for  machine learn object detection  
